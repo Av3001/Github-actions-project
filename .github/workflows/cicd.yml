@@ -99,7 +99,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: avneet/bnkapp:latest
+        tags: av3001/bnkapp:latest
         #file: ./Dockerfile
   
   
